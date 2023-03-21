@@ -2721,6 +2721,10 @@
 					"-ltorque_generated_initializers",
 					"-ltorque_generated_definitions",
 					"-lv8_heap_base",
+					"-lcrdtp",
+					"-lcrdtp_platform",
+					"-linspector",
+					"-linspector_string_conversions",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = org.nativescript.NativeScript;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -2796,6 +2800,10 @@
 					"-ltorque_generated_initializers",
 					"-ltorque_generated_definitions",
 					"-lv8_heap_base",
+					"-lcrdtp",
+					"-lcrdtp_platform",
+					"-linspector",
+					"-linspector_string_conversions",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = org.nativescript.NativeScript;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
